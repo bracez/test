@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/leaanthony/mewn"
-	"github.com/plutov/packagemain/16-wails-desktop-app/cpustats/pkg/sys"
+	"github.com/bracez/test/cpustats/pkg/sys"
 	"github.com/wailsapp/wails"
 )
 
